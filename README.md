@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![image](https://github-readme-stats.vercel.app/api?username=mohamadlakkis&count_private=true&show_icons=true&hide=stars&theme=prussian)
+[![image](https://github-readme-stats.vercel.app/api?username=mohamadlakkis&count_private=true&show_icons=true&hide=stars&theme=prussian)](https://github.com/mohamadlakkis)
 
 Coding since May 23, 2020!
 
@@ -20,6 +20,6 @@ Coding since May 23, 2020!
 
 - ⚡ Fun fact: I am only 17
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamadlakkis&repo=machine-learning&theme=prussian)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamadlakkis&repo=machine-learning&theme=prussian)](https://github.com/mohamadlakkis/machine-learning)
 
 ![image](https://ardas-it.com/uploads/images/blogs/giph.gif)
