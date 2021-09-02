@@ -4,7 +4,9 @@
 
 Coding since May 23, 2020!
 
-- 🔭 I’m currently working on Human Face Recognition
+- 🔭 I’m currently working on [whatsapp-bot](https://github.com/mohamadlakkis/whatsapp-bot) with [jadshaker](https://github.com/jadshaker)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohamadlakkis&repo=whatsapp-bot&theme=prussian)](https://github.com/mohamadlakkis/whatsapp-bot)
 
 - 🌱 I’m currently learning React
 
