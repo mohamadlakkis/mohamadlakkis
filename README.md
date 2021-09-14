@@ -4,9 +4,9 @@
 
 Coding since May 23, 2020!
 
-- 🔭 I’m currently working on fifa ultimate team bot with [jadshaker](https://github.com/jadshaker)
+- 🔭 I’m currently working on [online soccer manager bot](https://github.com/jadshaker/osm-bot) with [jadshaker](https://github.com/jadshaker)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=fifa-ultimate-team-bot&theme=github_dark)](https://github.com/jadshaker/fifa-ultimate-team-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jadshaker&repo=osm-bot&theme=github_dark)](https://github.com/jadshaker/osm-bot)
 
 - 🌱 I’m currently learning React
 
