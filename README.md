@@ -1,6 +1,6 @@
 ![github](/cover.png)
 
-ML | CP | FULL-STACK DEV | OOP | STAT | GIT |PYTHON | JAVA | C++ | JS |
+ML | CP | FULL-STACK DEV | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
 - 🔭 I’m currently working on Full-Stack Dev 
 - 🌱 I’m currently learning Node.js & React.js
 - 💬 Ask me about: ML, CP, Life, Web Dev, Business 
