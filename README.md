@@ -10,7 +10,7 @@ ML | CP | FULL-STACK DEV | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
 
 <table>
   <tr>
-    <td> <img src = "https://leetcard.jacoblin.cool/mohamadlakkis" alt="LeetCode stats" a = "https://leetcode.com/mohamadlakkis"</td>
+    <td> <img src = "https://leetcard.jacoblin.cool/mohamadlakkis?ext=heatmap" alt="LeetCode stats" a = "https://leetcode.com/mohamadlakkis"</td>
     <td><img src="https://streak-stats.demolab.com/?user=mohamadlakkis" alt="GitHub streak stats"></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=mohamadlakkis&show_icons=true&count_private=true" alt="GitHub stats"></td>
   </tr>
