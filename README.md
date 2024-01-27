@@ -10,7 +10,7 @@ ML | CP | FULL-STACK DEV | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
 <table>
   <tr>
     <td> 
-      <a href="https://leetcode.com/mohamadlakkis" target="_blank">
+      <a href="https://leetcode.com/mohamadlakkis" onclick="window.open('https://leetcode.com/mohamadlakkis'); return false;">
       <img src = "https://leetcard.jacoblin.cool/mohamadlakkis?ext=heatmap" alt="LeetCode stats" href = "https://leetcode.com/mohamadlakkis">
       </a>
     </td>
