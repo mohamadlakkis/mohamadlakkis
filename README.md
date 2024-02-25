@@ -5,8 +5,7 @@ ML | CP | FULL-STACK DEV | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
 - 🌱 I’m currently learning Node.js & React.js
 - 💬 Ask me about: ML, CP, Life, Web Dev, Business 
 - ⚡ Fav Quote: Go the Extra Mile
-
-
+- [⚡Solved over 400 Problems on LeetCode!](https://leetcode.com/mohamadlakkis/)
 <table>
   <tr>
 <!--     <td> 
