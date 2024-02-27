@@ -1,11 +1,12 @@
 ![github](/cover.png)
 
-ML | CP | FULL-STACK DEV | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
-- 🔭 I’m currently working on Full-Stack Dev 
-- 🌱 I’m currently learning Node.js & React.js
+ML | CP | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
+- [⚡Solved over 400 Problems on LeetCode!](https://leetcode.com/mohamadlakkis/)
+- - 🌱 I’m currently learning theroy & Application behind Machine Learning Algorithms
+- 🔭 I’m currently working on ML & Full-Stack Web Development
 - 💬 Ask me about: ML, CP, Life, Web Dev, Business 
 - ⚡ Fav Quote: Go the Extra Mile
-- [⚡Solved over 400 Problems on LeetCode!](https://leetcode.com/mohamadlakkis/)
+
 <table>
   <tr>
 <!--     <td> 
