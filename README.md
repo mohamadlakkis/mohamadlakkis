@@ -11,7 +11,7 @@ ML | CP | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
   <tr>
    <td> 
       <a href="https://leetcode.com/mohamadlakkis" onclick="window.open('https://leetcode.com/mohamadlakkis'); return false;">
-      <img src = "https://leetcard.jacoblin.cool/mohamadlakkis?ext=heatmap" alt="LeetCode stats" href = "https://leetcode.com/mohamadlakkis">
+      <img src = "https://leetcard.jacoblin.cool/mohamadlakkis?" alt="LeetCode stats" href = "https://leetcode.com/mohamadlakkis">
       </a>
     </td>
     <td><img src="https://streak-stats.demolab.com/?user=mohamadlakkis" alt="GitHub streak stats"></td>
