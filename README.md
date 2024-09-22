@@ -14,7 +14,7 @@ ML | NLP | CP | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
       <img src = "https://leetcard.jacoblin.cool/mohamadlakkis?" alt="LeetCode stats" href = "https://leetcode.com/mohamadlakkis">
       </a>
     </td>
-    <td><img src="https://streak-stats.demolab.com/?user=mohamadlakkis" alt="GitHub streak stats"></td>
+<!--     <td><img src="https://streak-stats.demolab.com/?user=mohamadlakkis" alt="GitHub streak stats"></td> -->
     <td><img src="https://github-readme-stats.vercel.app/api?username=mohamadlakkis&show_icons=true&count_private=true" alt="GitHub stats"></td>
   </tr>
 </table> 
