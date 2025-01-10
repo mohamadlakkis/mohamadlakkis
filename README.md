@@ -2,7 +2,7 @@
 
 ML | NLP | CP | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
 - [⚡Solved over 400 Problems on LeetCode!](https://leetcode.com/mohamadlakkis/)
-- - 🌱 I’m currently learning theory & Application behind Machine Learning Algorithms
+- 🌱 I’m currently learning theory & Application behind Machine Learning Algorithms
 - 🔭 I’m currently working on ML & NLP & Fine Tuning Transformers
 - 💬 Ask me about: ML, CP, NLP, Transformers, Statistics
 - ⚡ Fav Quote: Go the Extra Mile
