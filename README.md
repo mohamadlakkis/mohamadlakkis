@@ -1,4 +1,4 @@
-![github](/cover.png)
+
 
 ML | NLP | CP | OOP | STAT | GIT | PYTHON | JAVA | C++ | JS |
 - [⚡Solved over 400 Problems on LeetCode!](https://leetcode.com/mohamadlakkis/)
