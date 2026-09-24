@@ -35,7 +35,7 @@ ML | STATISTICS | FINANCE | ECONOMICS
 
 ### 📸 LeetCode Consistency Milestone (500+ Days Active)
 
-![LeetCode 2023 Streak & Milestone Stats](./assets/leetcode-2023.png)
+![LeetCode 2023 Streak & Milestone Stats](./streak_2023.png)
 
 ---
 
