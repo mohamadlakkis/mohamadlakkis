@@ -10,8 +10,8 @@ ML | STATISTICS | FINANCE | ECONOMICS
 ### 🧩 Algorithmic Problem Solving & Competitive Programming
 
 - **LeetCode Highlights:**
-  - **Consistency:** 500+ Days Active Badge | 352 Active Days in 2023[cite: 4]
-  - **Problems Solved:** 470+ problems solved across Data Structures, Dynamic Programming, and Graph Algorithms[cite: 4]
+  - **Consistency:** 500+ Days Active Badge | 352 Active Days in 2023
+  - **Problems Solved:** 470+ problems solved across Data Structures, Dynamic Programming, and Graph Algorithms
 - **Competitions:**
   - 🏆 **7th Place Nationally** — IEEE Xtreme 24-Hour Programming Competition
   - 🏆 **8th Place** — ICPC Regional Competition
