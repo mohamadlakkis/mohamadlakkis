@@ -25,9 +25,9 @@ ML | STATISTICS | FINANCE | ECONOMICS
         <img src="https://leetcard.jacoblin.cool/mohamadlakkis?" alt="LeetCode stats" />
       </a>
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=mohamadlakkis&show_icons=true&count_private=true" alt="GitHub stats" />
-    </td>
+    </td> -->
   </tr>
 </table> 
 
