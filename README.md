@@ -14,7 +14,7 @@ ML | STATISTICS | FINANCE | ECONOMICS
   - **Problems Solved:** 470+ problems solved across Data Structures, Dynamic Programming, and Graph Algorithms
 - **Competitions:**
   - 🏆 **7th Place Nationally** — IEEE Xtreme 24-Hour Programming Competition
-  - 🏆 **8th Place** — ICPC Regional Competition
+  - 🏆 **8th Place** — LCPC Competition
 
 <br />
 
